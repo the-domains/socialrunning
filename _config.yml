@@ -1,0 +1,14 @@
+layout_spectrum: 0.02768226689659059
+typography_spectrum: 0.2865471108816564
+color:
+  brandStrength: 0.41036045155487955
+  lightness: 0.7725325166247785
+  saturation: 0.684053753502667
+  rhythmicContrast: 0.6613167221657932
+  brandColors:
+    - '#450003'
+    - '#5C0002'
+    - '#94090D'
+    - '#D40D12'
+    - '#FF1D23'
+name: SocialRunning
